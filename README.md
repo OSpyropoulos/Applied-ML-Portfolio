@@ -59,9 +59,12 @@ Leveraging modern NLP techniques to analyze and update the classic hierarchical 
 
 ### 👀 Viewing the Projects
 
-1. Navigate to the desired project folder.
-2. Click on the `.ipynb` file to view the Jupyter notebook in GitHub's notebook viewer.
-3. You can see all the code, analysis, and visualizations directly in your browser.
+- Just click on the `.ipynb` file to view the Jupyter notebook in GitHub's notebook viewer.
+- You can see all the code, analysis, and visualizations directly in your browser.
+
+For a better experience:
+- We recommend downloading the `.ipynb` files and opening them with Jupyter Notebook or JupyterLab on your local machine.
+- This will allow for better rendering of all visualizations and a more interactive exploration of the notebooks.
 
 ### 🔧 Future Development
 
