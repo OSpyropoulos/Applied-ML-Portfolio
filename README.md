@@ -43,7 +43,7 @@ A replication and extension of findings from [Why Civil Resistance Works](https:
 
 ## 📚 Project 3: Modernizing Roget's Thesaurus with NLP
 
-Leveraging modern NLP techniques to analyze and update the classic hierarchical structure of Roget's Thesaurus.
+Leveraging modern NLP techniques to analyze and update the classic hierarchical structure of [Roget's Thesaurus](https://en.wikipedia.org/wiki/Roget%27s_Thesaurus).
 
 ### Key Features:
 - Word embedding analysis
@@ -68,16 +68,13 @@ cd applied-ml-portfolio
 
 # Install required packages
 pip install -r requirements.txt
+```
 
-- 📊 Results and Insights
-Each project folder contains detailed Jupyter notebooks with analysis, visualizations, and key findings. Check out the individual README files in each project directory for specific insights and conclusions.
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page if you want to contribute.
-📝 License
-This project is MIT licensed.
-🙏 Acknowledgements
+## 📊 Results and Insights
+Each project folder contains detailed Jupyter notebooks with analysis, visualizations, and key findings.
 
-Professor and TAs of the Applied Machine Learning course
-Inside Airbnb for Athens dataset
-NAVCO Dataset for civil resistance data
-Roget's Thesaurus contributors
+## 🙏 Acknowledgements
+- Panos Louridas - Professor and TAs of the Applied Machine Learning course
+- Inside Airbnb for Athens dataset
+- NAVCO Dataset for civil resistance data
+- Roget's Thesaurus contributors
