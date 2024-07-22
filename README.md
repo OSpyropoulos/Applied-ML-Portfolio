@@ -27,7 +27,7 @@ An in-depth analysis of Airbnb data in Athens, uncovering market trends and host
 
 ## ✊ Project 2: Why Civil Resistance Works - Replication Study
 
-A replication and extension of findings from "Why Civil Resistance Works" by Erica Chenoweth and Maria J. Stephan.
+A replication and extension of findings from [Why Civil Resistance Works](https://www.ericachenoweth.com/research/wcrw) by [Erical Chenoweth (Harvard](https://www.ericachenoweth.com/) and Maria J. Stephan.
 
 ### Key Features:
 - Analysis of nonviolent vs. violent campaign success rates
