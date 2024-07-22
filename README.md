@@ -25,7 +25,7 @@ An in-depth analysis of Airbnb data in Athens, uncovering market trends and host
 - Statistical Analysis
 - Geospatial Visualization
 
-## ✊ Project 2: Why Civil Resistance Works - Replication Study
+## ✊ Project 2: Exploring Why Civil Resistance Works
 
 A replication and extension of findings from [Why Civil Resistance Works](https://www.ericachenoweth.com/research/wcrw) by [Erical Chenoweth (Harvard](https://www.ericachenoweth.com/) and Maria J. Stephan.
 
@@ -41,7 +41,7 @@ A replication and extension of findings from [Why Civil Resistance Works](https:
 - Logistic Regression
 - Data Visualization
 
-## 📚 Project 3: Modernizing Roget's Thesaurus with NLP
+## 📚 Project 3: Roget's Thesaurus in the 21st Century
 
 Leveraging modern NLP techniques to analyze and update the classic hierarchical structure of [Roget's Thesaurus](https://en.wikipedia.org/wiki/Roget%27s_Thesaurus).
 
@@ -57,24 +57,21 @@ Leveraging modern NLP techniques to analyze and update the classic hierarchical 
 - Machine Learning (Clustering, Classification)
 - Word Embeddings
 
-## 🛠️ Setup and Installation
+### 👀 Viewing the Projects
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/applied-ml-portfolio.git
+1. Navigate to the desired project folder.
+2. Click on the `.ipynb` file to view the Jupyter notebook in GitHub's notebook viewer.
+3. You can see all the code, analysis, and visualizations directly in your browser.
 
-# Navigate to the project directory
-cd applied-ml-portfolio
+### 🔧 Future Development
 
-# Install required packages
-pip install -r requirements.txt
-```
+For those interested in running these notebooks locally, we plan to add a `requirements.txt` file and setup instructions in the future. Stay tuned for updates!
 
-## 📊 Results and Insights
+### 📊 Results and Insights
 Each project folder contains detailed Jupyter notebooks with analysis, visualizations, and key findings.
 
-## 🙏 Acknowledgements
-- Panos Louridas - Professor and TAs of the Applied Machine Learning course
+### 🙏 Acknowledgements
+- **Panos Louridas** - Professor at AUEB of the Applied Machine Learning course
 - Inside Airbnb for Athens dataset
 - NAVCO Dataset for civil resistance data
 - Roget's Thesaurus contributors
